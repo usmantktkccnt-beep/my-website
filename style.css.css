@@ -1,0 +1,888 @@
+body {
+ margin: 0;
+  padding: 0;
+ 
+  
+ 
+  font-family: 'Roboto', sans-serif;
+
+
+  overflow-x: hidden;
+ 
+
+
+}
+.P{ font-family: 'Roboto', sans-serif;}
+
+
+
+.email-container {
+width: 1368px ;
+  max-width: 100%;
+  
+  background-color: #ffffff;
+margin: 0 auto;
+  
+ 
+
+}
+
+
+.header {
+  background: #1A2A48;
+
+  color: #fff;
+  text-align: center;
+
+  
+  height: 453px;
+    max-width: 100%;
+    width: 1368px;
+  
+  display: block;
+}
+
+.header .logo {
+  padding-top: 60px;
+  width: 290px;
+  height: 130px;
+  top: 60px;
+  
+  display: block;
+  margin: 0 auto 10px;
+  
+}
+
+.header h1 {
+
+max-width: 801px;   
+  font-size: 48px;
+  line-height: 1.25;
+  text-align: left;
+  font-weight: 400;
+  padding-top: 80px;
+  margin-left: 60px;
+  
+
+}
+
+
+.ebook-section {
+    
+    align-items: right; 
+
+   width: 700px;
+}
+
+.ebook-section img {
+ position: absolute;
+  top: 140px;
+ float: right;
+  margin-left: 640px;
+  width: 600.2px;
+  margin-left: 784px;
+
+max-width: 100%;
+
+
+    
+}
+.ebook-section p{ 
+  max-width: 100%;
+  width: 750px;
+  font-size: 28.48px;
+  font-weight: 400;
+  line-height: 133%;
+  letter-spacing: 0%;
+  margin-left: 60px;
+  padding-top: 20px;
+}
+ h4{
+   font-size: 30px;
+  width: 761px;
+  margin-left: 60px;
+  padding-top: 60px;
+ 
+}
+.text{
+  font-size: 25.32px;
+  display: block;
+  width: 1078px;
+  margin-left: 60px;
+  font-weight: 400;
+}
+.type{
+  font-size: 25.32px;
+  width: 1078px;
+  display: block;
+  font-weight: 400;
+  margin-left: 60px;
+  padding-top: 20px;
+
+}
+.type h5{
+  padding-top: 25px;
+  font-size: 25.32px;
+  font-weight: 600;
+}
+.type h6{
+  font-size:25.32px ;
+  font-weight: 400;
+  padding-top: 20px;
+  font-family:'Roboto', sans-serif ;
+}
+.type p{
+font-size: 25.32px;
+padding-top: 20px;
+font-weight: 400;
+padding-bottom: 50px;
+}
+.script{
+  background-color: #1A2A48;
+max-width: 100%;
+  height: 247px;
+  
+  max-width: 100%;
+}
+.script h1{
+  color: #ffffff;
+  font-size: 32px;
+ width: 262px;
+ height: 38px;
+  font-weight: 400;
+  margin-left: 50px;
+  padding-top: 50px;
+
+}
+.script p{
+font-size: 25.32px;
+padding-top: 50px;
+color: #ffffff;
+padding-left: 50px;
+font-weight: 400;
+width: 1168px;
+height: 60px;
+}
+.images{
+padding-top: 90px;
+padding-left: 60px;
+position: absolute;
+
+ display: flex;
+ 
+}
+.ebook h1{
+  font-size: 32px;
+  width: 689px;
+  padding-left: 60px;
+  padding-top: 20px;
+  font-weight: 600;
+
+  
+  }
+  .banner {
+  background-color: red; 
+  max-width: 100%; 
+
+ 
+ height: 88px;
+margin-left: px;
+display: block;
+margin-top: 250px;
+margin-left:428px;
+}
+
+.yes-text {
+  font-size: 66px; 
+  color: white; 
+  font-weight: bold;
+  margin-left: 60px;
+  font-weight: 400;
+
+}
+
+.banner h2{
+  font-size: 32px;
+  width: 689px;
+  height: 114px;
+  padding-top: 30px;
+  padding-left:60px ;
+  font-weight: 600;
+}
+.banner p{
+  font-size: 25.32px;
+  font-weight: 400;
+  padding-top: 50px;
+padding-left: 60px;
+}
+.option h1{
+  font-size: 32px;
+  padding-top: 450px;
+  padding-left: 60px;
+  height: 38px;
+}
+.option img{
+
+ position: absolute;
+  top: 2550px;
+ position: absolute;
+ float: right;
+  margin-left: 663px;
+  width: 600.2px;
+  margin-left: 784px;
+
+max-width: 100%;
+
+}
+.note{
+    line-height: 2.5;
+    letter-spacing:normal;
+    color: #000000;
+    text-align: bold;
+    font-size: 25px;
+    padding-top: 60px;
+    margin-left: 60px;
+    width: 725px;
+}
+
+.author-section {
+  padding-top: 100px;
+    display:flex;
+    align-items: flex-start;   
+  
+    margin: 50px ;
+    
+    margin-left: 50px;
+    align-items: center;
+    font-size: 24px;
+}
+
+.author-image {
+  
+width: 365px;
+    height: 365px;      
+    object-fit: cover;  
+    border-radius: 50%;
+     clip-path: circle();
+     margin-right: 40px;
+     margin-left: 10px;
+margin-top: 60px;
+}
+
+.author-content h3 {
+    font-size: 35px;
+    font-weight: 600;
+    margin-left: 40px;
+    line-height: 2%;
+}
+
+.author-content h4 {
+    font-size: 35px;
+    font-weight: 600;
+    margin: 5px 0 15px 0;
+    margin-left: 40px;
+    line-height: 2;
+}
+
+.author-content p {
+  padding-top: 20px;
+    font-size: 25.32px;
+    line-height: 1.6;
+    margin-bottom: 15px;
+    margin-left: 40px;
+    font-weight: 180px;
+    font-weight: 400;
+}
+
+
+.author-content .highlight {
+    font-weight: 700;
+    color: red;
+}
+.there{
+  padding-left: 10px;
+  font-size: 25.32px;
+  margin-left: 60px;
+  font-weight: 600;
+}
+.button{
+  background-color:#1A2A48; 
+  max-width: 100%; 
+
+ width:1368px;
+ height: 403px;
+
+
+}
+.hiring h1{
+  padding-top: 70px;
+  font-weight: 600;
+   font-size: 25.32px;
+   color: #ffffff;
+   text-align: center;
+  }
+  .hiring h2{
+    padding-top: 30px;
+    font-size: 39.44px;
+    color: #ffffff;
+    text-align: center;
+  }
+  .download-boten {
+    
+    background-color: #ffffff;
+    color: #0f2241;
+    padding: 20px 80px;
+ font-size: 40.56px;
+    font-weight: 700;
+    text-decoration: none;
+    text-align: center;
+  margin: 0 auto;
+border-radius: 5px;
+  justify-content: center;
+  display: block;
+margin: 350px 350px 10px 300px ;
+margin-top: 30px;
+  
+}
+@media only screen and (min-width: 320px) and (max-width: 480px){
+  
+  .email-container{
+width: 100%;
+
+  }
+  .header{
+    width: 100%;
+  }
+  .button {
+    width: 100%;
+  }
+
+  .header {
+    height: auto;
+  }
+
+  .header h1 {
+    font-size: 26px;
+    text-align: center;
+    margin-left: 0;
+    padding: 30px 15px;
+  }
+
+  /* Ebook section */
+  .ebook-section {
+    width: 100%;
+    padding: 0 15px;
+  }
+
+  .ebook-section img {
+    position: static;          
+    width: 100%;
+    margin: 20px 0;
+  }
+
+  .ebook-section p{ 
+    width: 100%;
+    margin-left: 0;
+    padding: 0 15px;
+    font-size: 18px;
+  }
+  h4{
+     width: 100%;
+    margin-left: 0;
+    padding: 0 15px;
+    font-size: 18px;
+  }
+  .text{
+     width: 100%;
+    margin-left: 0;
+    padding: 0 15px;
+    font-size: 18px;
+  }
+  .type{
+ width: 100%;
+    margin-left: 0;
+    padding: 0 15px;
+    font-size: 18px;
+
+  }
+  .note {
+    width: 100%;
+    margin-left: 0;
+    padding: 0 15px;
+    font-size: 18px;
+  }
+
+  /*Images */
+  .images {
+    position: static;         
+    flex-direction: column;
+    padding: 20px;
+    text-align: center;
+  }
+
+  .images img {
+    width: 100%;
+  }
+
+  .ebook h1 {
+    width: 100%;
+    padding-left: 0;
+    font-size: 22px;
+  }
+
+  /*Script section */
+  .script {
+    height: auto;
+  }
+
+  .script h1 {
+    margin-left: 0;
+    padding: 20px;
+    font-size: 22px;
+  }
+
+  .script p {
+    width: 100%;
+    padding: 0 20px 20px;
+    font-size: 18px;
+  }
+
+  /* Banner*/
+  .banner {
+    width: 100%;
+    margin: 60px auto 0;
+    height: 100px;              
+    padding: 20px;
+    text-align: center;
+    margin-bottom: 200px;
+  }
+
+  .yes-text {
+    font-size: 42px;
+    margin-left: 0;
+    display: block;
+  }
+
+  .banner h2 {
+    width: 100%;
+    padding-left: 0;
+    font-size: 22px;
+  }
+
+  .banner p {
+    padding-left: 0;
+    font-size: 16px;
+  }
+
+  /* Option image*/
+  .option img {
+    position: static;          
+    width: 100%;
+    margin: 20px 0;
+  }
+
+  .option h1 {
+    padding-top: 60px;
+    padding-left: 15px;
+  }
+
+  /* Author section*/
+  .author-section {
+    flex-direction: column;
+    text-align: center;
+    margin: 20px;
+  }
+
+  .author-image {
+    width: 220px;
+    height: 220px;
+    margin: 20px auto;
+  }
+
+  .author-content h3{
+    margin-left: 0;
+  }
+  .author-content h4{
+    margin-left: 0;
+
+  }
+  .author-content p {
+    margin-left: 0;
+  }
+
+ /* boten download*/
+  .download-boten {
+    font-size: 22px;
+    padding: 15px 30px;
+    margin: 20px auto;
+    border-color: #0f2241;
+  }
+.hiring h1{
+  font-size: 20px;
+}
+.hiring h2{
+  font-size: 25px;
+}
+}
+@media only screen and (min-width: 601px) and (max-width: 768px) {
+   .email-container{
+width: 100%;
+
+  }
+  .header{
+    width: 100%;
+  }
+  .button {
+    width: 100%;
+  }
+
+  .header {
+    height: auto;
+  }
+
+  .header h1 {
+    font-size: 26px;
+    text-align: center;
+    margin-left: 0;
+    padding: 30px 15px;
+  }
+
+  /* Ebook section */
+  .ebook-section {
+    width: 100%;
+    padding: 0 15px;
+  }
+
+  .ebook-section img {
+    position: static;          
+    width: 100%;
+    width: 800px;
+    margin: 20px 0;
+  }
+
+  .ebook-section p{ 
+    width: 100%;
+    margin-left: 0;
+    padding: 0 15px;
+    font-size: 22px;
+  }
+  h4{
+     width: 100%;
+    margin-left: 0;
+    padding: 0 15px;
+    font-size: 18px;
+  }
+  .text{
+     width: 100%;
+    margin-left: 0;
+    padding: 0 15px;
+    font-size: 18px;
+  }
+  .type{
+ width: 100%;
+    margin-left: 0;
+    padding: 0 15px;
+    font-size: 18px;
+
+  }
+  .note {
+    width: 100%;
+    margin-left: 0;
+    padding: 0 15px;
+    font-size: 18px;
+  }
+
+  /*Images */
+  .images {
+    position: static;         
+    flex-direction: column;
+    padding: 20px;
+    text-align: center;
+
+  }
+
+  .images img {
+    width: 700px;
+  }
+
+  .ebook h1 {
+    width: 100%;
+    padding-left: 0;
+    font-size: 22px;
+  }
+
+  /*Script section */
+  .script {
+    height: auto;
+  }
+
+  .script h1 {
+    margin-left: 0;
+    padding: 20px;
+    font-size: 22px;
+  }
+
+  .script p {
+    width: 100%;
+    padding: 0 20px 20px;
+    font-size: 18px;
+  }
+
+  /* Banner*/
+  .banner {
+    width: 100%;
+    margin: 60px auto 0;
+    height: 100px;              
+    padding: 20px;
+    text-align: center;
+    margin-bottom: 200px;
+  }
+
+  .yes-text {
+    font-size: 42px;
+    margin-left: 0;
+    display: block;
+  }
+
+  .banner h2 {
+    width: 100%;
+    padding-left: 0;
+    font-size: 22px;
+  }
+
+  .banner p {
+    padding-left: 0;
+    font-size: 16px;
+  }
+
+  /* Option image*/
+  .option img {
+    position: static;          
+    width: 100%;
+    margin: 20px 0;
+  }
+
+  .option h1 {
+    padding-top: 60px;
+    padding-left: 15px;
+  }
+
+  /* Author section*/
+  .author-section {
+    flex-direction: column;
+    text-align: center;
+    margin: 20px;
+  }
+
+  .author-image {
+    width: 350px;
+    height: 350px;
+    margin: 20px auto;
+  }
+
+  .author-content h3{
+    margin-left: 0;
+  }
+  .author-content h4{
+    margin-left: 0;
+
+  }
+  .author-content p {
+    margin-left: 0;
+  }
+
+ /* boten download*/
+  .download-boten {
+    font-size: 22px;
+    padding: 15px 30px;
+    margin: 20px auto;
+    border-color: #0f2241;
+  }
+.hiring h1{
+  font-size: 20px;
+}
+.hiring h2{
+  font-size: 25px;
+}
+}
+ @media only screen and (min-width: 769px) and (max-width: 1024px){
+ .email-container{
+width: 100%;
+
+  }
+  .header{
+    width: 100%;
+  }
+  .button {
+    width: 100%;
+  }
+
+  .header {
+    height: auto;
+  }
+
+  .header h1 {
+    font-size: 26px;
+    text-align: center;
+    margin-left: 0;
+    padding: 30px 15px;
+  }
+
+  /* Ebook section */
+  .ebook-section {
+    width: 100%;
+    padding: 0 15px;
+  }
+
+  .ebook-section img {
+    position: static;          
+    width: 100%;
+    width: 800px;
+    margin: 20px 0;
+  }
+
+  .ebook-section p{ 
+    width: 100%;
+    margin-left: 0;
+    padding: 0 15px;
+    font-size: 22px;
+  }
+  h4{
+     width: 100%;
+    margin-left: 0;
+    padding: 0 15px;
+    font-size: 18px;
+  }
+  .text{
+     width: 100%;
+    margin-left: 0;
+    padding: 0 15px;
+    font-size: 18px;
+  }
+  .type{
+ width: 100%;
+    margin-left: 0;
+    padding: 0 15px;
+    font-size: 18px;
+
+  }
+  .note {
+    width: 100%;
+    margin-left: 0;
+    padding: 0 15px;
+    font-size: 18px;
+  }
+
+  /*Images */
+  .images {
+    position: static;         
+    flex-direction: column;
+    padding: 20px;
+    text-align: center;
+
+  }
+
+  .images img {
+    width: 700px;
+  }
+
+  .ebook h1 {
+    width: 100%;
+    padding-left: 0;
+    font-size: 22px;
+  }
+
+  /*Script section */
+  .script {
+    height: auto;
+  }
+
+  .script h1 {
+    margin-left: 0;
+    padding: 20px;
+    font-size: 22px;
+  }
+
+  .script p {
+    width: 100%;
+    padding: 0 20px 20px;
+    font-size: 18px;
+  }
+
+  /* Banner*/
+  .banner {
+    width: 100%;
+    margin: 60px auto 0;
+    height: 100px;              
+    padding: 20px;
+    text-align: center;
+    margin-bottom: 200px;
+  }
+
+  .yes-text {
+    font-size: 42px;
+    margin-left: 0;
+    display: block;
+  }
+
+  .banner h2 {
+    width: 100%;
+    padding-left: 0;
+    font-size: 22px;
+  }
+
+  .banner p {
+    padding-left: 0;
+    font-size: 16px;
+  }
+
+  /* Option image*/
+  .option img {
+    position: static;          
+    width: 100%;
+    margin: 20px 0;
+  }
+
+  .option h1 {
+    padding-top: 60px;
+    padding-left: 15px;
+  }
+
+  /* Author section*/
+  .author-section {
+    flex-direction: column;
+    text-align: center;
+    margin: 20px;
+  }
+
+  .author-image {
+    width: 350px;
+    height: 350px;
+    margin: 20px auto;
+  }
+
+  .author-content h3{
+    margin-left: 0;
+  }
+  .author-content h4{
+    margin-left: 0;
+
+  }
+  .author-content p {
+    margin-left: 0;
+  }
+
+ /* boten download*/
+  .download-boten {
+    font-size: 22px;
+    padding: 15px 30px;
+    margin: 20px auto;
+    border-color: #0f2241;
+  }
+.hiring h1{
+  font-size: 20px;
+}
+.hiring h2{
+  font-size: 25px;
+} 
+ }
